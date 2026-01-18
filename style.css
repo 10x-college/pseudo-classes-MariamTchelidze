@@ -312,7 +312,7 @@ section {
 }
 /* Footer responsive */
 @media (max-width: 860px) {
-  footer .footer-wrapper {
+  .footer .footer-wrapper {
     width: 100%;
     display: flex;
     justify-content: center;
